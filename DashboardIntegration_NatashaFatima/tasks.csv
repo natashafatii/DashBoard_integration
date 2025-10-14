@@ -1,0 +1,9 @@
+TaskID,TaskName,Project,Assignee,StartDate,EndDate,Status,Priority,EffortHours
+1,Design Homepage,Website Redesign,Ali,2025-10-01,2025-10-05,Completed,High,16
+2,API Development,Mobile App,Sana,2025-10-03,2025-10-10,In Progress,High,40
+3,Database Migration,System Upgrade,Usman,2025-10-06,2025-10-15,Not Started,Medium,32
+4,User Testing,Mobile App,Ayesha,2025-10-12,2025-10-18,Not Started,Low,24
+5,Content Writing,Website Redesign,Ali,2025-10-08,2025-10-12,In Progress,Medium,20
+6,UI/UX Design,Mobile App,Sana,2025-10-01,2025-10-07,Completed,High,28
+7,Server Configuration,System Upgrade,Usman,2025-10-10,2025-10-20,Not Started,High,48
+8,Documentation,Website Redesign,Ayesha,2025-10-15,2025-10-19,Not Started,Low,16
