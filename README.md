@@ -24,14 +24,19 @@ It visualizes project management data — timelines, task status, team workloads
 
 ## ⚙️ Running the App Locally  
 
- Clone this repository:  
-   ```bash
-   git clone https://github.com/natashafatii/DashBoard_integration.git
-   cd DashBoard_integration
-Install dependencies:
+Follow the steps below to run the project on your system:
+
+### 1. Clone the repository  
+```bash
+git clone https://github.com/natashafatii/DashBoard_integration.git
+cd DashBoard_integration
+
+### Install dependencies:
 npm install
-Start the development server:
+### Start the development server
 npm run dev
-Open your browser at:
-http://localhost:3000/dashboard
+### Open in browser
+Go to:
+👉 http://localhost:3000/dashboard
 The embedded Power BI dashboard should appear with a spinner while loading.
+---
