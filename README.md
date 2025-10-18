@@ -39,4 +39,5 @@ npm run dev
 Go to:
 👉 http://localhost:3000/dashboard
 The embedded Power BI dashboard should appear with a spinner while loading.
+```
 ---
